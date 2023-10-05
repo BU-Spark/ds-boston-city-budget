@@ -1,1 +1,24 @@
+Weekly Scrum Report:
+1. What is the project focus/overall goal?
+	To find how budget and spending has changed over time in different categories in total and per capita, and find how the budget has differed from the actual spending, while also trying to discover interesting relationships in the dataset
+
+2. Why is this project important?
+  It is important because the result can help the city to manage its budget better, to send money to where it is needed and where it is important (education, public health, etc.) and balance the areas that were previously poorly managed.
+
+3. What type of data will you collect or be analyzing?
+	We will be analyzing records, from public government dataset
+
+4. What are potential limitations of the project?
+	The dataset we are supposed to use only has 4 years of data, not a lot if we are trying to see how it would change in time. There is also a lot of missing data, which would be difficult to deal with and could potentially provide false information.
+
+5. What are your next steps? Divide tasks amongst the team
+  Firstly, clean and be familiar with the Operating Budget Data and Capital Budget Data
+  Then, focus on the “Spending by department” first, and addressing three main questions.
+  After making an agreement with the first budget area, then the team member can work independently on the other three, and form a consistent standard.
+  
+  The task division refers to the following arrangements, but is not necessarily to be the same as them.
+  	Team member 1: clean the Operating Budget Data and Capital Budget Data
+  	Team member 2: analyze changes in the annual city budget over time
+    Team member 3: analyze differences in projected vs. actual spending
+    Team member 4: analyze per capita spending
 
