@@ -1,9 +1,5 @@
-Add your name to the team info page!
+Team E: Ke Jin, Wanchen Hong, Zhupei Xu, Alex Zhang, Phil Ledoit
 
 At the end of the semester update this README with information on how to run your project. 
 
-Ke Jin, Class of 2024 Email: jinke001@bu.edu \
-Wanchen Hong, Class of 2024, Email: wghong@bu.edu \
-Zhupei Xu, Class of 2024, Email: xuzhupei@bu.edu \
-Alex Zhang, Email: zhangal@bu.edu \
-Phil Ledoit, pledoit@bu.edu
+
