@@ -1,1 +1,1 @@
-Its a temp
+I have plotted my visuals with Plotty; please run the.ipynb to see the plots.
