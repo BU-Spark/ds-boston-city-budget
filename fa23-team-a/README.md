@@ -48,11 +48,11 @@ To run the project, you need to have a "data" folder with the following CSV file
 The project consists of several Jupyter Notebooks. You can run these to see information regarding the 
 city spending:
 
-1. CapitalBudgetPlan.ipynb
-2. Dataset2.ipynb
-3. census.ipynb
-4. project.ipynb
-5. visual.ipynb
+1. CapitalBudgetPlan.ipynb: Extended data analysis on FY24 Capital Budget Plan used for neighborhood/location data in base project and extension project
+2. Dataset2.ipynb: Initial data analysis on FY24 Capital Budget Plan
+3. census.ipynb: Data analysis on demographics of different neighborhoods used for extension project
+4. project.ipynb: Data analysis on FY24 Operating Budget used for program, department and budget category data as well as trends from 2021-2024 in base project
+5. visual.ipynb: Compilation of some visuals used in final report
 
 ## Troubleshooting
 
