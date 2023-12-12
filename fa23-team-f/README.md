@@ -76,7 +76,7 @@ Remove extra spaces from values
 Replace #missing with Nulls 
 
 # Graphs and Analysis
-Check the deliverable_4.pdf file.
+Check the deliverable_4.pdf file and Jupyter Notebooks to observe all of the process.
 
 # Conclusion
 
