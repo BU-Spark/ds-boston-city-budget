@@ -1,3 +1,3 @@
 Team D: Logan Neishloss, Qicheng Cao, Priscilla Nguyen; Shreyas Sudarsan; Jin Ruoxi
 
-At the end of the semester update this README with information on how to run your project. 
+Our project involves the analysis of the City of Boston's budget with respect to how funding is allocated by age.
