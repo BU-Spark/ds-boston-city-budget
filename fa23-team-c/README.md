@@ -13,12 +13,14 @@ The purpose of this project is to explore and analyze the boston city budget and
 * Budget Allocation by Department
 * Budget Allocation by Categories
 * Budget Allocation by Programs
+* Budget Allocation over Time
 ### Extension Analysis
 * Social Economic Analysis
 * Economic Analysis and Change
 * Budget Analysis by Weather Data
 * Departmental Analysis
 * Funding Sources
+* weather analysis
 
 ## Exploring the Project
 ### Requirements
