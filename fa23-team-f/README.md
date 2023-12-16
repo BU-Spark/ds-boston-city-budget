@@ -76,7 +76,7 @@ Remove extra spaces from values
 Replace #missing with Nulls 
 
 # Graphs and Analysis
-Check the deliverable_4.pdf file and Jupyter Notebooks to observe all of the process.
+Check the deliverable_4.pdf file and Jupyter Notebooks on the fa23-team-f folder to look at the data cleaning and base analysis with the data in its respective folder. The extension is broken down in various notebooks on the extension folder. We also included the slides, deliverables, and scrum reports in their own folders. 
 
 # Conclusion
 
