@@ -1,0 +1,653 @@
+,Cabinet,Dept,Program,ExpenseCategory,FY21ActualExpense,FY22ActualExpense,FY23Appropriation,FY24Adopted
+0,Mayor's Cabinet,Mayor's Office,Mayor's Administration,Personnel Services,1820538.46,1624903.69,1584054.209,1921403.81
+1,Mayor's Cabinet,Mayor's Office,Mayor's Administration,Contractual Services,127557.82,284597.9,99314.0,219633.42
+2,Mayor's Cabinet,Mayor's Office,Mayor's Administration,Supplies & Materials,27318.17,28541.55,44938.0,55573.65
+3,Mayor's Cabinet,Mayor's Office,Mayor's Administration,Current Charges & Obligations,11365.77,19410.3,29630.0,16734.29
+4,Mayor's Cabinet,Mayor's Office,Mayor's Administration,Equipment,39040.6,16164.36,24900.0,36115.0
+5,Mayor's Cabinet,Mayor's Office,Mayor's Executive,Personnel Services,403120.39,583859.32,377948.0895,387298.7
+7,Mayor's Cabinet,Mayor's Office,Mayor's Policy & Planning,Personnel Services,1603125.26,768993.95,1916580.116,1464593.364
+8,Mayor's Cabinet,Mayor's Office,Mayor's Policy & Planning,Contractual Services,207821.35,253549.07,389079.0,174000.0
+11,Mayor's Cabinet,Mayor's Office,New Urban Mechanics,Personnel Services,416898.77,438308.77,604730.0887,669210.3615
+12,Mayor's Cabinet,Mayor's Office,New Urban Mechanics,Contractual Services,16082.69,583.44,28800.0,100000.0
+13,Mayor's Cabinet,Mayor's Office,New Urban Mechanics,Supplies & Materials,2187.03,164.98,5961.0,6361.0
+14,Mayor's Cabinet,Mayor's Office,New Urban Mechanics,Current Charges & Obligations,5856.76,1190.52,6400.0,4500.0
+15,Mayor's Cabinet,Mayor's Office,New Urban Mechanics,Equipment,34717.16,22128.0,100.0,22000.0
+16,Mayor's Cabinet,Mayor's Office,Mayor's Communications,Personnel Services,708665.4,762365.75,1028638.497,1349000.703
+17,Mayor's Cabinet,Mayor's Office,Mayor's Communications,Contractual Services,294.75,123.21,0.0,70500.0
+21,Mayor's Cabinet,Election Department,Election Division,Personnel Services,3039194.23,3297454.25,3594396.974,4020353.741
+22,Mayor's Cabinet,Election Department,Listing Board,Personnel Services,260842.69,289834.32,408508.9724,459903.9639
+23,Mayor's Cabinet,Election Department,Election Division,Contractual Services,456905.6,841673.6,692160.01,1136484.81
+24,Mayor's Cabinet,Election Department,Listing Board,Contractual Services,11584.64,36514.14,51897.0,60404.0
+25,Mayor's Cabinet,Election Department,Election Division,Supplies & Materials,345480.24,815739.75,1264355.52,1385303.0
+26,Mayor's Cabinet,Election Department,Listing Board,Supplies & Materials,223618.34,245386.94,270000.0,285700.0
+27,Mayor's Cabinet,Election Department,Election Division,Current Charges & Obligations,104706.94,70739.98,158700.0,203924.0
+28,Mayor's Cabinet,Election Department,Election Division,Equipment,343177.14,353922.49,416675.86,225999.24
+29,Mayor's Cabinet,Intergovernmental Relations,IGR,Personnel Services,807260.78,677057.29,1045363.466,919295.9622
+30,Mayor's Cabinet,Intergovernmental Relations,Grants Administration,Personnel Services,109715.94,113796.23,113456.6416,114856.5514
+31,Mayor's Cabinet,Intergovernmental Relations,IGR,Contractual Services,171102.42,181763.77,192299.0,41161.0
+33,Mayor's Cabinet,Intergovernmental Relations,IGR,Supplies & Materials,2328.75,4063.22,6200.0,6200.0
+34,Mayor's Cabinet,Intergovernmental Relations,IGR,Current Charges & Obligations,191807.1,192661.08,192717.0,158209.0
+35,Mayor's Cabinet,Intergovernmental Relations,Grants Administration,Current Charges & Obligations,330.0,300.0,330.0,330.0
+36,Mayor's Cabinet,Law Department,Law Operations,Personnel Services,939652.89,1720068.17,1258313.208,1724794.202
+37,Mayor's Cabinet,Law Department,Litigation,Personnel Services,1165591.62,728780.69,1504899.284,1493350.636
+38,Mayor's Cabinet,Law Department,Government Services,Personnel Services,3107260.92,2974614.11,4684669.184,4975153.76
+39,Mayor's Cabinet,Law Department,Law Operations,Contractual Services,246143.51,318348.31,369425.0,284989.2
+40,Mayor's Cabinet,Law Department,Litigation,Contractual Services,1900050.81,2348433.15,1665800.0,1832339.0
+41,Mayor's Cabinet,Law Department,Government Services,Contractual Services,20821.58,36453.06,150700.0,87754.2
+42,Mayor's Cabinet,Law Department,Law Operations,Supplies & Materials,10528.29,11120.92,16375.0,18650.0
+45,Mayor's Cabinet,Law Department,Law Operations,Current Charges & Obligations,61166.92,49673.26,33000.0,105159.0
+46,Mayor's Cabinet,Law Department,Litigation,Current Charges & Obligations,28207.33,7387.21,37000.0,23270.0
+47,Mayor's Cabinet,Law Department,Government Services,Current Charges & Obligations,22749.93,23801.57,60500.0,26100.0
+74,Equity & Inclusion Cabinet,Human Right Commission,Human Rights,Personnel Services,182642.1,359467.99,484545.9788,527894.7701
+75,Equity & Inclusion Cabinet,Human Right Commission,Human Rights,Contractual Services,11169.68,1845.86,134500.0,87300.0
+77,Equity & Inclusion Cabinet,Human Right Commission,Human Rights,Current Charges & Obligations,1016.36,3198.59,11000.0,1200.0
+79,Equity & Inclusion Cabinet,Office for Immigrant Advancement,Immigrant Advancement,Personnel Services,688559.37,806227.45,966445.8526,1272870.169
+80,Equity & Inclusion Cabinet,Office for Immigrant Advancement,Immigrant Advancement,Contractual Services,420389.28,858347.52,2115085.0,2023217.0
+81,Equity & Inclusion Cabinet,Office for Immigrant Advancement,Immigrant Advancement,Supplies & Materials,5531.54,9273.48,11500.0,11400.0
+82,Equity & Inclusion Cabinet,Office for Immigrant Advancement,Immigrant Advancement,Current Charges & Obligations,923.91,4486.53,16324.0,15324.0
+84,Equity & Inclusion Cabinet,Women's Advancement,Women's Commission Program,Personnel Services,309482.14,309104.93,340272.496,495311.1058
+85,Equity & Inclusion Cabinet,Women's Advancement,Women's Commission Program,Contractual Services,156871.59,432183.65,134573.0,185973.0
+94,Equity & Inclusion Cabinet,Fair Housing & Equity,Fair Housing Commission,Personnel Services,179181.26,266874.1,406034.0036,306980.5806
+95,Equity & Inclusion Cabinet,Fair Housing & Equity,Fair Housing Commission,Contractual Services,7476.45,168529.03,113240.0,166240.0
+97,Equity & Inclusion Cabinet,Fair Housing & Equity,Fair Housing Commission,Supplies & Materials,3061.46,6572.16,11822.0,11822.0
+98,Equity & Inclusion Cabinet,Fair Housing & Equity,Fair Housing Commission,Current Charges & Obligations,590.46,42021.83,2150.0,235.0
+105,Equity & Inclusion Cabinet,Commission for Persons with Disabilities,Disabilities,Personnel Services,474250.56,483631.8,659932.9147,707847.1765
+106,Equity & Inclusion Cabinet,Commission for Persons with Disabilities,Disabilities,Contractual Services,4992.95,15904.75,21150.0,63069.0
+107,Equity & Inclusion Cabinet,Commission for Persons with Disabilities,Disabilities,Supplies & Materials,4757.39,9232.49,7000.0,7490.0
+108,Equity & Inclusion Cabinet,Commission for Persons with Disabilities,Disabilities,Equipment,880.0,2974.0,0.0,0.0
+109,OPAT Cabinet,Office of Police Accountability & Transparency,OPAT Commission,Personnel Services,0.0,482414.94,1089212.793,1216543.925
+110,OPAT Cabinet,Office of Police Accountability & Transparency,OPAT Commission,Contractual Services,0.0,65382.21,99460.0,84610.0
+111,OPAT Cabinet,Office of Police Accountability & Transparency,OPAT Commission,Supplies & Materials,0.0,8838.29,20000.0,13000.0
+112,OPAT Cabinet,Office of Police Accountability & Transparency,OPAT Commission,Current Charges & Obligations,0.0,43996.1,98870.83,102631.9
+113,OPAT Cabinet,Office of Police Accountability & Transparency,OPAT Commission,Equipment,0.0,92311.76,6000.0,6000.0
+114,OPAT Cabinet,Office of Police Accountability & Transparency,Civilian Review Board (CRB),Personnel Services,0.0,16225.0,49999.574,19414.28286
+115,OPAT Cabinet,Office of Police Accountability & Transparency,Internal Affairs Oversight Panel (IOAP),Personnel Services,0.0,8575.0,124999.93,10785.71715
+116,Operations Cabinet,Property Management Department,PM Administration,Personnel Services,1806599.13,1990985.16,1917832.399,2207924.662
+117,Operations Cabinet,Property Management Department,PM Administration,Contractual Services,82966.66,116724.08,111598.0,110015.6
+118,Operations Cabinet,Property Management Department,PM Administration,Supplies & Materials,15995.41,30618.58,15861.45104,74100.0
+119,Operations Cabinet,Property Management Department,PM Administration,Current Charges & Obligations,85867.97,125558.95,109440.0,89415.0
+121,Operations Cabinet,Property Management Department,Building Operations,Personnel Services,1673553.77,2208087.82,2481388.909,4158656.045
+122,Operations Cabinet,Property Management Department,Building Operations,Contractual Services,5472360.58,7006501.08,7025431.947,8908972.332
+123,Operations Cabinet,Property Management Department,Building Operations,Supplies & Materials,90202.93,667193.95,162625.0,180385.321
+124,Operations Cabinet,Property Management Department,Building Operations,Current Charges & Obligations,6373.88,8873.19,41094.0,1702803.0
+125,Operations Cabinet,Property Management Department,Building Operations,Equipment,45806.27,27380.36,104225.0,157708.5
+126,Operations Cabinet,Property Management Department,Alterations & Repair,Personnel Services,504368.91,635205.99,718836.9306,731201.0515
+127,Operations Cabinet,Property Management Department,Alterations & Repair,Contractual Services,3861196.54,5766626.66,1436905.0,1198575.6
+128,Operations Cabinet,Property Management Department,Alterations & Repair,Supplies & Materials,46455.68,69636.74,69965.0,69965.0
+130,Operations Cabinet,Property Management Department,Enforcement,Personnel Services,2479753.91,2501062.92,2701620.98,2959274.056
+131,Operations Cabinet,Property Management Department,Enforcement,Contractual Services,95733.2,99948.35,94918.0,182133.1
+132,Operations Cabinet,Property Management Department,Enforcement,Supplies & Materials,124976.11,75345.26,80500.95784,45055.328
+133,Operations Cabinet,Property Management Department,Enforcement,Current Charges & Obligations,8656.67,8759.98,8000.0,18000.0
+134,Operations Cabinet,Property Management Department,Enforcement,Equipment,37.49,27494.01,40072.36,103505.289
+135,Operations Cabinet,Property Management Department,Security Systems,Personnel Services,667933.94,644620.46,731363.3156,817230.1289
+136,Operations Cabinet,Property Management Department,Security Systems,Contractual Services,9448.84,4423.3,15586.0,15586.0
+137,Operations Cabinet,Property Management Department,Security Systems,Supplies & Materials,6075.83,14248.89,20130.0,17400.0
+138,Operations Cabinet,Property Management Department,Security Systems,Current Charges & Obligations,1913.81,32.4,900.0,900.0
+139,Operations Cabinet,Property Management Department,Security Systems,Equipment,11103.65,6834.21,20636.0,41188.6
+141,Operations Cabinet,Property Management Department,Building Systems,Personnel Services,564902.62,611583.39,814909.1348,621244.9196
+142,Operations Cabinet,Property Management Department,Building Systems,Contractual Services,1101131.81,1268163.5,1605650.0,1596310.0
+143,Operations Cabinet,Property Management Department,Building Systems,Supplies & Materials,33466.46,11835.91,54500.0,54500.0
+144,Operations Cabinet,Property Management Department,Building Systems,Current Charges & Obligations,1350.0,2450.0,2500.0,2500.0
+145,Operations Cabinet,Property Management Department,Building Systems,Equipment,970.0,2694.99,3000.0,3000.0
+146,Operations Cabinet,Public Facilities Department,PFD Capital Construction,Personnel Services,6809366.37,7335539.27,8312994.004,9539509.435
+147,Operations Cabinet,Public Facilities Department,PFD Capital Construction,Contractual Services,332634.41,474416.13,470260.0,477395.0
+148,Operations Cabinet,Public Facilities Department,PFD Capital Construction,Supplies & Materials,9799.0,13583.69,27012.4952,21502.2
+149,Operations Cabinet,Public Facilities Department,PFD Capital Construction,Current Charges & Obligations,11159.23,10238.21,21700.0,20713.0
+151,Operations Cabinet,Inspectional Services Department,ISD Commissioner's Office,Personnel Services,843403.71,1263528.21,996022.4843,1009666.867
+152,Operations Cabinet,Inspectional Services Department,ISD Commissioner's Office,Contractual Services,394930.13,395255.32,277750.5797,292099.4719
+153,Operations Cabinet,Inspectional Services Department,ISD Commissioner's Office,Supplies & Materials,6513.63,1788.81,1269.9625,1258.0
+154,Operations Cabinet,Inspectional Services Department,ISD Commissioner's Office,Current Charges & Obligations,37267.52,65761.2,63018.0,60904.0
+156,Operations Cabinet,Inspectional Services Department,ISD Administration & Finance,Personnel Services,2205104.21,2519242.9,2924589.74,3464350.216
+157,Operations Cabinet,Inspectional Services Department,ISD Administration & Finance,Contractual Services,221097.63,415183.58,580151.0,336850.0
+158,Operations Cabinet,Inspectional Services Department,ISD Administration & Finance,Supplies & Materials,167011.62,159835.72,196376.6582,206982.0
+159,Operations Cabinet,Inspectional Services Department,ISD Administration & Finance,Current Charges & Obligations,828721.51,917900.01,703240.0,133126.99
+160,Operations Cabinet,Inspectional Services Department,ISD Administration & Finance,Equipment,31989.28,243167.18,22272.4,24278.61
+161,Operations Cabinet,Inspectional Services Department,Buildings & Structures,Personnel Services,7598632.5,7746582.28,8638483.784,8922375.067
+162,Operations Cabinet,Inspectional Services Department,Buildings & Structures,Contractual Services,508606.07,560879.97,299206.0,302010.0
+163,Operations Cabinet,Inspectional Services Department,Buildings & Structures,Supplies & Materials,25790.18,29977.22,34459.975,24238.0
+164,Operations Cabinet,Inspectional Services Department,Buildings & Structures,Current Charges & Obligations,7530.0,8833.27,98326.0,6150.0
+165,Operations Cabinet,Inspectional Services Department,Buildings & Structures,Equipment,17087.61,113132.81,8511.56,8358.12
+166,Operations Cabinet,Inspectional Services Department,Field Services,Personnel Services,6720591.59,6894352.23,7716196.731,7975343.317
+167,Operations Cabinet,Inspectional Services Department,Field Services,Contractual Services,225893.5,235796.6,297241.0,300915.0
+168,Operations Cabinet,Inspectional Services Department,Field Services,Supplies & Materials,39243.59,51271.84,34450.34883,28312.984
+169,Operations Cabinet,Inspectional Services Department,Field Services,Current Charges & Obligations,2760.0,3765.0,5550.0,6800.0
+170,Operations Cabinet,Inspectional Services Department,Field Services,Equipment,17196.78,33062.15,35505.47,48339.47
+171,Community Engagement Cabinet,Neighborhood Services,ONS Administration,Personnel Services,640264.0,673613.21,934962.5079,740676.6007
+172,Community Engagement Cabinet,Neighborhood Services,ONS Administration,Contractual Services,59936.85,161962.77,46100.0,111100.0
+173,Community Engagement Cabinet,Neighborhood Services,ONS Administration,Supplies & Materials,2969.14,1902.84,7188.985,7285.0
+174,Community Engagement Cabinet,Neighborhood Services,ONS Administration,Current Charges & Obligations,20027.76,24103.41,2430.48,8302.0
+176,Community Engagement Cabinet,Neighborhood Services,Neighborhood Serv,Personnel Services,1293366.34,1583781.78,1599393.165,1480239.639
+177,Community Engagement Cabinet,Neighborhood Services,Neighborhood Serv,Contractual Services,-825.0,102233.72,10200.0,16081.2
+179,Community Engagement Cabinet,Neighborhood Services,Office of Civic Organizing,Personnel Services,87220.71,74400.76,74950.0046,190773.435
+180,Community Engagement Cabinet,Neighborhood Services,Office of Civic Organizing,Contractual Services,20855.79,8500.68,1090.0,36792.0
+183,Community Engagement Cabinet,Neighborhood Services,Boston 311,Personnel Services,1465349.24,1575088.58,1967746.206,1993242.509
+187,Arts & Culture Cabinet,Office of Arts & Culture,Arts and Culture,Personnel Services,1091020.73,1211535.16,1739662.058,2212299.611
+188,Arts & Culture Cabinet,Office of Arts & Culture,Arts and Culture,Contractual Services,975980.06,2234496.11,2287943.031,2257041.219
+189,Arts & Culture Cabinet,Office of Arts & Culture,Arts and Culture,Supplies & Materials,2399.78,2961.39,5000.0,15000.0
+190,Arts & Culture Cabinet,Office of Arts & Culture,Arts and Culture,Current Charges & Obligations,21681.54,45006.96,45148.0,45752.0
+192,Economic Opportunity & Inclusion Cabinet,Office of Economic Opportunity & Inclusion,Economic Development,Personnel Services,781579.59,1292740.38,1811985.679,1713687.993
+193,Economic Opportunity & Inclusion Cabinet,Office of Economic Opportunity & Inclusion,Economic Development,Contractual Services,47344.41,720603.83,389419.0,335503.07
+194,Economic Opportunity & Inclusion Cabinet,Office of Economic Opportunity & Inclusion,Economic Development,Supplies & Materials,1985.3,5679.62,12000.0,23500.0
+195,Economic Opportunity & Inclusion Cabinet,Office of Economic Opportunity & Inclusion,Economic Development,Current Charges & Obligations,12990.21,46719.09,63409.81,83544.0
+196,Economic Opportunity & Inclusion Cabinet,Office of Economic Opportunity & Inclusion,Economic Development,Equipment,30007.78,6477.78,4200.0,3599.45
+201,Economic Opportunity & Inclusion Cabinet,Office of Economic Opportunity & Inclusion,Small & Local Business,Personnel Services,179370.84,160699.93,632922.0074,937314.4408
+202,Economic Opportunity & Inclusion Cabinet,Office of Economic Opportunity & Inclusion,Small & Local Business,Contractual Services,385609.0,1623229.05,3059100.0,3318776.05
+203,Economic Opportunity & Inclusion Cabinet,Office of Economic Opportunity & Inclusion,Small & Local Business,Supplies & Materials,299.96,5325.0,12010.0,20300.0
+206,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Consumer Licensing,Personnel Services,569288.05,654298.54,707022.1238,731753.3273
+207,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Consumer Licensing,Contractual Services,2014.77,6184.04,4100.0,6635.0
+208,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Consumer Licensing,Supplies & Materials,582.58,1756.17,2250.0,2250.0
+209,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Consumer Licensing,Current Charges & Obligations,3216.23,4865.4,1335.0,350.0
+211,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Consumer Affairs,Personnel Services,173037.05,67367.8,64655.58211,75051.98715
+213,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Licensing_Board,Personnel Services,745539.33,865178.33,1008222.706,1106395.741
+214,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Licensing_Board,Contractual Services,10250.58,39875.61,10590.0,14452.0
+215,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Licensing_Board,Supplies & Materials,7667.33,8561.54,12250.0,12250.0
+216,Economic Opportunity & Inclusion Cabinet,Consumer Affairs & Licensing,Licensing_Board,Current Charges & Obligations,6095.62,3333.84,5430.0,5820.0
+222,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Tourism Administration,Personnel Services,486965.5,430981.83,483280.6349,606725.5243
+223,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Tourism Administration,Contractual Services,16768.21,1014363.09,31980.0,36480.0
+225,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Tourism Administration,Current Charges & Obligations,1.64,409.26,450.0,-46.0
+227,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Film & Special Events,Personnel Services,207661.97,224922.91,308725.9647,282855.0657
+228,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Film & Special Events,Contractual Services,12797.83,5421.37,330900.0,331502.0
+229,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Film & Special Events,Supplies & Materials,270.91,1306.71,1286.9432,1947.9614
+230,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Film & Special Events,Current Charges & Obligations,35393.89,44116.53,60000.0,60000.0
+231,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Film & Special Events,Equipment,462.5,30273.83,2000.0,24488.81
+232,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Film & Special Events,Other Expenses,49325.67,173135.44,225000.0,225000.0
+233,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Tourism,Personnel Services,70092.83,75461.84,78079.49343,169898.3214
+234,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Tourism,Contractual Services,1848.49,1504.34,4500.0,4500.0
+235,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Tourism,Supplies & Materials,1469.75,484.03,2500.0,2500.0
+237,Economic Opportunity & Inclusion Cabinet,Office of Tourism,Tourism,Other Expenses,6337.14,26721.34,38750.0,38750.0
+246,Worker Empowerment Cabinet,Youth Employment and Opportunity,Youth Employment and Opportunity Admin,Personnel Services,6254010.52,7988496.84,10623481.22,7507291.484
+247,Worker Empowerment Cabinet,Youth Employment and Opportunity,Youth Employment and Opportunity Admin,Contractual Services,286539.4,2557953.23,6399453.0,9837758.0
+248,Worker Empowerment Cabinet,Youth Employment and Opportunity,Youth Employment and Opportunity Admin,Supplies & Materials,35445.13,58996.77,68500.0,68500.0
+249,Worker Empowerment Cabinet,Youth Employment and Opportunity,Youth Employment and Opportunity Admin,Current Charges & Obligations,8905.08,44735.04,56496.0,56496.0
+251,Worker Empowerment Cabinet,Youth Employment and Opportunity,Youth Employment and Opportunity Admin,Other Expenses,562500.0,562500.0,562500.0,562500.0
+252,Education Cabinet,Boston Public Schools,Alternative,Personnel Services,1653711.73,1719010.49,2206003.0,2583371.0
+253,Education Cabinet,Boston Public Schools,Alternative,Contractual Services,16855.0,8948.33,26278.0,26278.0
+256,Education Cabinet,Boston Public Schools,Early Learning Center,Personnel Services,13353662.09,14189560.54,17029773.0,18019808.0
+257,Education Cabinet,Boston Public Schools,Early Learning Center,Contractual Services,352260.0,224894.72,254529.0,387574.0
+258,Education Cabinet,Boston Public Schools,Early Learning Center,Supplies & Materials,105789.82,169759.78,149370.0,147541.0
+260,Education Cabinet,Boston Public Schools,Elementary,Personnel Services,140874624.0,146358168.9,185431357.0,193547579.0
+261,Education Cabinet,Boston Public Schools,Elementary,Contractual Services,1710794.9,1700743.79,966076.0,806682.0
+262,Education Cabinet,Boston Public Schools,Elementary,Supplies & Materials,978701.64,1274705.51,700611.0,858308.0
+264,Education Cabinet,Boston Public Schools,Elementary,Equipment,264464.88,279671.9,21847.0,6000.0
+265,Education Cabinet,Boston Public Schools,Exam,Personnel Services,36724356.02,37892696.11,46694219.0,50150040.0
+266,Education Cabinet,Boston Public Schools,Exam,Contractual Services,180422.86,16988.57,35507.0,300.0
+267,Education Cabinet,Boston Public Schools,Exam,Supplies & Materials,387868.12,235414.23,281670.0,188443.0
+270,Education Cabinet,Boston Public Schools,High,Personnel Services,104844459.3,111918421.7,152525968.0,167412954.0
+271,Education Cabinet,Boston Public Schools,High,Contractual Services,1403087.39,1242003.32,1411776.0,1389537.0
+272,Education Cabinet,Boston Public Schools,High,Supplies & Materials,1083658.58,808055.49,870536.0,1602591.0
+274,Education Cabinet,Boston Public Schools,High,Equipment,184128.77,317313.67,39137.0,172904.0
+275,Education Cabinet,Boston Public Schools,K-12,Personnel Services,10422568.24,10698065.57,14297110.0,14788294.0
+277,Education Cabinet,Boston Public Schools,K-12,Supplies & Materials,129349.63,39335.84,2214.0,1611.0
+279,Education Cabinet,Boston Public Schools,K-8,Personnel Services,181167346.5,184376796.8,221964827.0,229918721.0
+280,Education Cabinet,Boston Public Schools,K-8,Contractual Services,1376224.35,1162542.94,670182.0,1027554.0
+281,Education Cabinet,Boston Public Schools,K-8,Supplies & Materials,1753511.47,1504622.48,1144056.0,789608.0
+283,Education Cabinet,Boston Public Schools,K-8,Equipment,345202.8,260610.09,43624.0,6200.0
+284,Education Cabinet,Boston Public Schools,Middle,Personnel Services,24108847.92,16534744.54,11695938.0,11231381.0
+285,Education Cabinet,Boston Public Schools,Middle,Contractual Services,295937.81,79314.0,40169.0,49129.0
+286,Education Cabinet,Boston Public Schools,Middle,Supplies & Materials,182890.27,65010.87,20995.0,21645.0
+288,Education Cabinet,Boston Public Schools,Middle/High,Personnel Services,27923723.52,30143915.17,40710234.0,43516760.0
+289,Education Cabinet,Boston Public Schools,Middle/High,Contractual Services,393633.77,1611360.68,166658.0,210473.0
+290,Education Cabinet,Boston Public Schools,Middle/High,Supplies & Materials,177413.03,117718.54,48952.0,74604.0
+291,Education Cabinet,Boston Public Schools,Middle/High,Equipment,280641.59,335163.89,105490.0,58462.0
+292,Education Cabinet,Boston Public Schools,"Special Ed, K-12",Personnel Services,18578546.96,18188364.97,22558337.0,23024559.0
+293,Education Cabinet,Boston Public Schools,"Special Ed, K-12",Contractual Services,612501.49,557336.26,641334.0,788178.0
+294,Education Cabinet,Boston Public Schools,"Special Ed, K-12",Supplies & Materials,147877.84,189521.81,222945.0,330481.0
+295,Education Cabinet,Boston Public Schools,"Special Ed, K-12",Equipment,131863.56,65397.65,54916.0,125062.0
+296,Education Cabinet,Boston Public Schools,Superintendent,Personnel Services,2073108.64,2270394.73,2598588.0,2772039.0
+297,Education Cabinet,Boston Public Schools,Superintendent,Contractual Services,182285.2,1138326.31,372935.0,372051.0
+298,Education Cabinet,Boston Public Schools,Superintendent,Supplies & Materials,15326.81,17868.33,24433.0,24599.0
+299,Education Cabinet,Boston Public Schools,Superintendent,Equipment,12809.98,6771.3,5732.0,6561.0
+301,Education Cabinet,Boston Public Schools,Student Support Services (C),Personnel Services,53163663.24,51067334.63,61816040.0,68902923.0
+302,Education Cabinet,Boston Public Schools,Student Support Services (C),Contractual Services,8876796.84,6968913.29,7386271.0,8398047.0
+303,Education Cabinet,Boston Public Schools,Student Support Services (C),Supplies & Materials,455196.07,334636.41,442987.0,561173.0
+304,Education Cabinet,Boston Public Schools,Student Support Services (C),Current Charges & Obligations,2379.0,4800.0,7982.0,11566.0
+305,Education Cabinet,Boston Public Schools,Student Support Services (C),Equipment,206037.98,119278.24,124672.0,361773.0
+306,Education Cabinet,Boston Public Schools,Strategy,Personnel Services,37520893.42,36475854.31,32903633.0,32331978.0
+307,Education Cabinet,Boston Public Schools,Strategy,Contractual Services,3378486.64,9183476.52,13144840.0,11125901.0
+308,Education Cabinet,Boston Public Schools,Strategy,Supplies & Materials,86906.44,131410.07,206005.0,272693.0
+310,Education Cabinet,Boston Public Schools,Strategy,Equipment,112708.24,100318.47,72852.0,81450.0
+311,Education Cabinet,Boston Public Schools,Strategy,Other Expenses,826663.63,646711.9,173663.0,173663.0
+312,Education Cabinet,Boston Public Schools,School Committee,Personnel Services,185687.09,204516.58,249922.0,271445.0
+313,Education Cabinet,Boston Public Schools,School Committee,Contractual Services,41418.01,208591.35,65863.0,137152.0
+314,Education Cabinet,Boston Public Schools,School Committee,Supplies & Materials,4140.48,3912.71,6179.0,4179.0
+315,Education Cabinet,Boston Public Schools,School Committee,Equipment,1120.0,1048.0,1151.0,1151.0
+316,Education Cabinet,Boston Public Schools,BPS Finance,Personnel Services,272543203.0,271720945.8,201566192.0,168901505.0
+317,Education Cabinet,Boston Public Schools,BPS Finance,Contractual Services,51573967.42,47060954.79,28479603.0,24953142.0
+318,Education Cabinet,Boston Public Schools,BPS Finance,Supplies & Materials,1586148.31,1892864.23,1998407.0,1946080.0
+319,Education Cabinet,Boston Public Schools,BPS Finance,Current Charges & Obligations,1334672.75,1655603.91,7755140.0,19445954.0
+320,Education Cabinet,Boston Public Schools,BPS Finance,Equipment,106493.56,145651.91,499349.0,517512.0
+321,Education Cabinet,Boston Public Schools,Chief of Schools,Personnel Services,2630515.2,2683542.24,2553989.0,3381115.0
+322,Education Cabinet,Boston Public Schools,Chief of Schools,Contractual Services,14000.0,21974.0,10536.0,26657.0
+323,Education Cabinet,Boston Public Schools,Chief of Schools,Supplies & Materials,5754.87,7681.3,8167.0,8167.0
+326,Education Cabinet,Boston Public Schools,ASSET,Personnel Services,10731100.52,11227025.01,15611999.0,18304310.0
+327,Education Cabinet,Boston Public Schools,ASSET,Contractual Services,7983280.96,9718732.33,10608277.0,14891372.0
+328,Education Cabinet,Boston Public Schools,ASSET,Supplies & Materials,3590553.93,1896358.23,2656728.0,2452650.0
+329,Education Cabinet,Boston Public Schools,ASSET,Current Charges & Obligations,36385.37,1240.0,35230.0,35230.0
+330,Education Cabinet,Boston Public Schools,ASSET,Equipment,112817.98,80646.0,132150.0,143733.0
+331,Education Cabinet,Boston Public Schools,BPS Operations,Personnel Services,58441649.48,58844436.9,66542345.0,74203801.0
+332,Education Cabinet,Boston Public Schools,BPS Operations,Contractual Services,152201073.1,174443907.6,172449971.0,201435911.0
+333,Education Cabinet,Boston Public Schools,BPS Operations,Supplies & Materials,6023207.07,1655376.66,2019571.0,3874035.0
+334,Education Cabinet,Boston Public Schools,BPS Operations,Current Charges & Obligations,4525239.89,4480086.52,6309228.0,6962740.0
+335,Education Cabinet,Boston Public Schools,BPS Operations,Equipment,6962847.64,9866379.78,12672706.0,12678814.0
+338,Education Cabinet,Boston Public Schools,Capital Planning Unit,Personnel Services,305102.63,332782.33,748272.0,815145.0
+342,"Environment, Energy & Open Space Cabinet",Environment Department,Environment,Personnel Services,2436307.1,2784883.32,2534392.048,2405681.748
+343,"Environment, Energy & Open Space Cabinet",Environment Department,Environment,Contractual Services,680823.34,1945504.64,757797.0,1135687.2
+344,"Environment, Energy & Open Space Cabinet",Environment Department,Environment,Supplies & Materials,15663.29,34094.81,10000.0,16300.0
+345,"Environment, Energy & Open Space Cabinet",Environment Department,Environment,Current Charges & Obligations,4886.83,4668.15,4400.0,30621.0
+349,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks & Recreation Administration,Personnel Services,2513068.89,2675185.25,2448020.887,2704951.953
+350,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks & Recreation Administration,Contractual Services,393445.66,475569.12,539737.0,436130.0
+351,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks & Recreation Administration,Supplies & Materials,32234.17,35696.38,39050.0,29050.0
+352,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks & Recreation Administration,Current Charges & Obligations,438215.29,519428.11,441088.0,435270.93
+353,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks & Recreation Administration,Equipment,56397.65,52477.81,54036.25,81204.41
+354,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Operations,Personnel Services,8544588.42,9524414.58,9176544.043,9019681.5
+355,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Operations,Contractual Services,3957266.85,4367356.72,4142951.846,5010954.96
+356,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Operations,Supplies & Materials,722834.52,943348.17,855622.7188,935633.33
+357,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Operations,Current Charges & Obligations,60175.84,54695.29,68765.0,57597.0
+358,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Operations,Equipment,845315.73,950423.29,1272936.735,1597982.004
+359,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Operations,Other Expenses,1918619.65,2073559.72,966268.0,1401274.0
+360,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Citywide Recreation,Personnel Services,756500.01,881887.16,934056.0348,1143095.999
+361,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Citywide Recreation,Contractual Services,27665.51,124264.98,286039.0,331097.81
+362,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Citywide Recreation,Supplies & Materials,50915.89,209878.86,57250.0,57250.0
+363,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Citywide Recreation,Current Charges & Obligations,118979.05,130425.08,100484.0,100484.0
+365,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Design & Construction,Personnel Services,1319216.67,1308965.19,1379186.566,1887573.977
+366,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Design & Construction,Contractual Services,2608964.55,6105419.15,706754.2212,943043.9598
+367,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Parks Design & Construction,Supplies & Materials,74215.1,750.0,750.0,750.0
+369,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Animal Care & Control,Personnel Services,1029663.27,1212413.32,1372524.316,1395980.428
+370,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Animal Care & Control,Contractual Services,37884.0,137763.31,180445.0,180445.0
+371,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Animal Care & Control,Supplies & Materials,16337.99,91253.93,91939.8,93220.0
+372,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Animal Care & Control,Current Charges & Obligations,201.76,657.48,10470.0,9306.59
+373,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Animal Care & Control,Equipment,21753.32,10876.66,11493.9,70355.7
+378,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Cemetery,Personnel Services,1953496.59,1817343.46,1993532.426,1970592.359
+379,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Cemetery,Contractual Services,307090.32,336724.13,404792.8467,475139.8917
+380,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Cemetery,Supplies & Materials,64739.51,72162.09,97417.7035,104814.72
+381,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Cemetery,Current Charges & Obligations,24254.33,39458.8,21189.0,25071.17
+382,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Cemetery,Equipment,168648.28,128778.74,125485.96,211234.925
+383,"Environment, Energy & Open Space Cabinet",Parks & Recreation Department,Cemetery,Other Expenses,36925.0,81551.0,20000.0,142075.0
+392,Finance Cabinet,Office of Finance,A&F,Personnel Services,785330.07,877574.82,937900.1953,881811.3838
+393,Finance Cabinet,Office of Finance,A&F,Contractual Services,2879758.07,1506499.17,1706603.3,800410.0
+394,Finance Cabinet,Office of Finance,A&F,Supplies & Materials,1476.03,508.73,1250.0,1250.0
+395,Finance Cabinet,Office of Finance,A&F,Current Charges & Obligations,3651.29,2939.04,2800.0,2404.0
+397,Finance Cabinet,Assessing Department,Assessing Operations,Personnel Services,2466167.75,2511237.11,2352816.333,2549897.663
+398,Finance Cabinet,Assessing Department,Assessing Operations,Contractual Services,109626.81,74206.45,111600.0,121632.8
+399,Finance Cabinet,Assessing Department,Assessing Operations,Supplies & Materials,125526.87,61212.42,56739.8128,66661.28
+400,Finance Cabinet,Assessing Department,Assessing Operations,Current Charges & Obligations,2598.27,20292.54,5000.0,3018.0
+402,Finance Cabinet,Assessing Department,Valuation,Personnel Services,3241718.37,3189053.03,3734415.68,3693905.197
+403,Finance Cabinet,Assessing Department,Valuation,Contractual Services,183401.29,164960.47,416200.0,374532.0
+404,Finance Cabinet,Assessing Department,Valuation,Supplies & Materials,7250.0,6750.0,9000.0,0.0
+405,Finance Cabinet,Assessing Department,Valuation,Current Charges & Obligations,149590.1,156318.33,162300.0,207000.0
+407,Finance Cabinet,Assessing Department,Executive,Personnel Services,889101.54,821912.19,1233753.791,1222278.036
+408,Finance Cabinet,Assessing Department,Executive,Contractual Services,165437.03,148572.08,195000.0,222297.8
+409,Finance Cabinet,Assessing Department,Executive,Supplies & Materials,500.0,500.0,500.0,0.0
+410,Finance Cabinet,Assessing Department,Executive,Current Charges & Obligations,6274.71,6551.28,6000.0,10000.0
+411,Finance Cabinet,Auditing Department,Auditing Administration,Personnel Services,521782.35,556282.95,634782.7928,655808.3449
+412,Finance Cabinet,Auditing Department,Auditing Administration,Contractual Services,106706.75,94599.57,123402.0,76392.2
+413,Finance Cabinet,Auditing Department,Auditing Administration,Supplies & Materials,956.8,6735.64,2707.0,2707.0
+414,Finance Cabinet,Auditing Department,Auditing Administration,Current Charges & Obligations,2662.76,2720.26,1961.0,961.0
+415,Finance Cabinet,Auditing Department,Accounting,Personnel Services,687080.55,509180.42,768452.2106,842823.3909
+416,Finance Cabinet,Auditing Department,Accounting,Contractual Services,258364.67,208745.71,7885.0,81769.0
+417,Finance Cabinet,Auditing Department,Accounting,Supplies & Materials,155.17,841.14,1757.0,1757.0
+418,Finance Cabinet,Auditing Department,Accounting,Current Charges & Obligations,19987.0,7205.0,36972.5,41973.0
+419,Finance Cabinet,Auditing Department,Central Payroll,Personnel Services,504497.26,613985.53,647237.3586,788021.4601
+420,Finance Cabinet,Auditing Department,Central Payroll,Contractual Services,589.29,1291.6,3795.0,4099.0
+421,Finance Cabinet,Auditing Department,Central Payroll,Supplies & Materials,1133.45,564.98,1400.0,1400.0
+422,Finance Cabinet,Auditing Department,Central Payroll,Current Charges & Obligations,1507.0,150.0,516.0,516.0
+424,Finance Cabinet,Auditing Department,Grants Monitoring,Personnel Services,352116.23,340109.47,202307.7571,343550.5915
+425,Finance Cabinet,Auditing Department,Grants Monitoring,Contractual Services,1757.79,1674.7,3085.0,3991.0
+426,Finance Cabinet,Auditing Department,Grants Monitoring,Supplies & Materials,15.46,30.08,957.0,957.0
+427,Finance Cabinet,Auditing Department,Grants Monitoring,Current Charges & Obligations,1370.0,1050.0,455.0,455.0
+428,Finance Cabinet,Auditing Department,Accounts Payable,Personnel Services,655808.3,693097.55,824899.6553,834094.4301
+429,Finance Cabinet,Auditing Department,Accounts Payable,Contractual Services,6497.43,2986.05,7815.0,10914.2
+430,Finance Cabinet,Auditing Department,Accounts Payable,Supplies & Materials,1781.54,1257.33,4707.0,4707.0
+431,Finance Cabinet,Auditing Department,Accounts Payable,Current Charges & Obligations,3095.0,2654.79,388.0,199.0
+433,Finance Cabinet,Budget Management,Budget Administration,Personnel Services,868922.04,802625.98,1007458.621,856591.0537
+434,Finance Cabinet,Budget Management,Budget Administration,Contractual Services,373366.25,589032.24,162550.0,189172.0
+435,Finance Cabinet,Budget Management,Budget Administration,Supplies & Materials,916.88,3642.22,4850.0,5850.0
+436,Finance Cabinet,Budget Management,Budget Administration,Current Charges & Obligations,56183.26,76745.22,63785.0,76461.0
+438,Finance Cabinet,Budget Management,Budget & Management,Personnel Services,857130.26,776336.92,793437.8258,1073420.604
+439,Finance Cabinet,Budget Management,Budget & Management,Contractual Services,567.88,1530.33,1800.0,3510.0
+441,Finance Cabinet,Budget Management,Revenue Monitoring,Personnel Services,105797.0,87835.44,97570.65504,97691.10001
+444,Finance Cabinet,Budget Management,Capital Budgeting,Personnel Services,375067.67,351975.13,423322.8035,447234.9565
+445,Finance Cabinet,Budget Management,Capital Budgeting,Contractual Services,253.58,578.56,600.0,2808.0
+447,Finance Cabinet,Budget Management,Risk Management,Personnel Services,130004.78,59311.0,103619.0983,126546.424
+449,Finance Cabinet,Budget Management,Risk Management,Current Charges & Obligations,58250.0,58250.0,70885.0,70885.0
+454,Finance Cabinet,Execution of Courts,Execution of Courts,Other Expenses,5790677.54,34508737.33,5000000.0,5000000.0
+455,Finance Cabinet,Pensions & Annuities - City,Pensions & Annuities - City,Personnel Services,3429223.23,3330307.039,3900000.0,4005000.0
+456,Finance Cabinet,Procurement,Purchasing Administration,Personnel Services,870392.42,960096.97,988560.9287,1101010.343
+457,Finance Cabinet,Procurement,Purchasing Administration,Contractual Services,16235.49,20749.56,16433.0,217497.41
+458,Finance Cabinet,Procurement,Purchasing Administration,Supplies & Materials,2799.31,5418.33,7500.0,7500.0
+459,Finance Cabinet,Procurement,Purchasing Administration,Current Charges & Obligations,11490.97,15333.81,4515.0,4495.0
+460,Finance Cabinet,Procurement,Purchasing Administration,Equipment,12024.84,24070.14,24070.13,24070.13
+462,Finance Cabinet,Procurement,Goods Procurement,Personnel Services,585651.05,614427.96,687672.5716,627432.5643
+463,Finance Cabinet,Procurement,Goods Procurement,Contractual Services,1609.28,127301.53,7021.0,8097.41
+464,Finance Cabinet,Procurement,Goods Procurement,Supplies & Materials,1921.03,5276.99,4975.0,4975.0
+465,Finance Cabinet,Procurement,Goods Procurement,Current Charges & Obligations,290.02,2631.44,400.0,400.0
+467,Finance Cabinet,Procurement,Central Services,Personnel Services,325983.72,307075.51,333182.5302,295912.9372
+468,Finance Cabinet,Procurement,Central Services,Contractual Services,41525.82,32912.86,26021.0,27097.41
+469,Finance Cabinet,Procurement,Central Services,Supplies & Materials,2647.25,1009.98,2750.0,2750.0
+472,Finance Cabinet,Procurement,Central Services,Other Expenses,41806.63,104161.79,6000.0,6000.0
+477,Finance Cabinet,Treasury Department,General Management,Personnel Services,505212.35,617779.91,632463.6799,640968.4731
+478,Finance Cabinet,Treasury Department,General Management,Contractual Services,80450.26,77386.31,496250.0,602600.0
+479,Finance Cabinet,Treasury Department,General Management,Supplies & Materials,5095.53,11876.9,18500.0,19000.0
+480,Finance Cabinet,Treasury Department,General Management,Current Charges & Obligations,2454.3,2391.11,17000.0,21650.0
+481,Finance Cabinet,Treasury Department,Special Collections,Personnel Services,578414.55,448289.96,530263.5857,532695.1507
+482,Finance Cabinet,Treasury Department,Special Collections,Contractual Services,1623.2,1983.92,3962.0,4800.0
+483,Finance Cabinet,Treasury Department,Special Collections,Supplies & Materials,2500.0,1750.0,2250.0,2000.0
+484,Finance Cabinet,Treasury Department,Payment Services,Personnel Services,312385.99,392110.84,470397.3305,487253.8198
+485,Finance Cabinet,Treasury Department,Payment Services,Contractual Services,409508.93,375421.97,1525.0,4200.0
+486,Finance Cabinet,Treasury Department,Payment Services,Supplies & Materials,499549.05,511383.76,516500.0,531750.0
+487,Finance Cabinet,Treasury Department,Payment Services,Equipment,5815.6,11733.51,20000.0,20000.0
+489,Finance Cabinet,Treasury Department,Accounting/Quality Control,Personnel Services,396024.0,352997.34,353440.6886,365819.0327
+490,Finance Cabinet,Treasury Department,Accounting/Quality Control,Contractual Services,1017.86,1180.34,1213.0,2100.0
+491,Finance Cabinet,Treasury Department,Accounting/Quality Control,Supplies & Materials,500.0,250.0,500.0,250.0
+492,Finance Cabinet,Treasury Department,Treasury Administration,Personnel Services,510541.86,623739.92,519332.3409,699476.2867
+493,Finance Cabinet,Treasury Department,Treasury Administration,Contractual Services,136716.83,144555.99,203108.0,249952.8
+494,Finance Cabinet,Treasury Department,Treasury Administration,Supplies & Materials,14791.3,12414.69,15000.0,12414.69
+495,Finance Cabinet,Treasury Department,Treasury Administration,Current Charges & Obligations,12204.3,6225.4,19000.0,10232.4
+496,Finance Cabinet,Treasury Department,General Service/Payroll,Personnel Services,377614.73,355007.09,364381.6164,448579.1454
+497,Finance Cabinet,Treasury Department,General Service/Payroll,Contractual Services,16730.6,15874.21,25400.0,17659.22
+498,Finance Cabinet,Treasury Department,General Service/Payroll,Supplies & Materials,240052.03,246178.24,245500.0,246178.24
+499,Finance Cabinet,Treasury Department,Treasury Accounting,Personnel Services,180806.89,124222.66,175331.303,216785.0486
+500,Finance Cabinet,Treasury Department,Treasury Accounting,Contractual Services,266.52,351.78,900.0,2410.0
+501,Finance Cabinet,Treasury Department,Treasury Accounting,Supplies & Materials,4500.0,4500.0,4750.0,4750.0
+502,Finance Cabinet,Treasury Department,Accounts Receivable,Personnel Services,417902.35,287598.52,510171.7667,404198.7329
+503,Finance Cabinet,Treasury Department,Accounts Receivable,Contractual Services,207.15,326.78,900.0,3360.0
+504,Finance Cabinet,Treasury Department,Accounts Receivable,Supplies & Materials,17000.0,17000.0,17000.0,17000.0
+505,Finance Cabinet,Treasury Department,Trust,Personnel Services,631.62,11696.0,4443.244349,31296.28117
+512,People Operations Cabinet,Health Insurance,Health Insurance,Current Charges & Obligations,210900841.5,205206595.7,217310394.0,222353329.0
+513,People Operations Cabinet,Human Resources,Personnel,Personnel Services,2015785.34,2570913.75,2776064.705,3133921.673
+514,People Operations Cabinet,Human Resources,Personnel,Contractual Services,94646.12,313995.46,1245818.0,1112218.0
+515,People Operations Cabinet,Human Resources,Personnel,Supplies & Materials,5560.82,12558.2,5580.0,6830.0
+516,People Operations Cabinet,Human Resources,Personnel,Current Charges & Obligations,781482.72,725432.21,925637.0,1018755.0
+519,People Operations Cabinet,Human Resources,Affirmative Action,Contractual Services,2024410.0,50000.0,61625.0,52500.0
+520,People Operations Cabinet,Human Resources,Affirmative Action,Current Charges & Obligations,550.0,1250.0,2000.0,2000.0
+521,People Operations Cabinet,Human Resources,Health Benefits & Insurance,Personnel Services,847645.04,898109.27,989180.3424,1009653.648
+522,People Operations Cabinet,Human Resources,Health Benefits & Insurance,Contractual Services,14438.0,68893.64,48494.0,52010.0
+523,People Operations Cabinet,Human Resources,Health Benefits & Insurance,Supplies & Materials,43741.12,36608.4,43400.0,43400.0
+524,People Operations Cabinet,Human Resources,Health Benefits & Insurance,Current Charges & Obligations,1114.19,1094.16,1250.0,683.98
+526,People Operations Cabinet,Human Resources,Employee Assistance,Personnel Services,257562.52,600934.26,629593.4045,662196.9506
+527,People Operations Cabinet,Human Resources,Employee Assistance,Contractual Services,253.58,1174.98,600.0,900.0
+531,People Operations Cabinet,Human Resources,Workers' Comp,Personnel Services,713423.57,660453.1,798022.5776,907919.5607
+532,People Operations Cabinet,Human Resources,Workers' Comp,Contractual Services,3381.09,5664.48,5550.0,5650.0
+533,People Operations Cabinet,Human Resources,Workers' Comp,Supplies & Materials,2392.42,2577.45,8450.0,6850.0
+534,People Operations Cabinet,Human Resources,Workers' Comp,Current Charges & Obligations,24026.8,139291.8,135094.0,162028.79
+535,People Operations Cabinet,Medicare,Medicare Payments,Personnel Services,10542664.41,10890571.81,12635794.0,12635797.0
+536,People Operations Cabinet,Office of Labor Relations,Labor Relations,Personnel Services,831980.32,743376.74,1363403.112,1322189.49
+537,People Operations Cabinet,Office of Labor Relations,Labor Relations,Contractual Services,425171.01,542131.91,556813.84,556919.84
+538,People Operations Cabinet,Office of Labor Relations,Labor Relations,Supplies & Materials,434.42,940.44,2700.0,2700.0
+539,People Operations Cabinet,Office of Labor Relations,Labor Relations,Current Charges & Obligations,38411.1,32282.88,38250.0,55123.0
+541,People Operations Cabinet,Registry Division,Administration,Personnel Services,331409.42,356615.61,397678.0726,570785.3625
+542,People Operations Cabinet,Registry Division,Administration,Contractual Services,9315.35,9884.17,13053.12,17423.0
+543,People Operations Cabinet,Registry Division,Administration,Supplies & Materials,13519.99,14779.43,30576.25,39250.0
+544,People Operations Cabinet,Registry Division,Administration,Current Charges & Obligations,377.0,373.0,150.0,150.0
+546,People Operations Cabinet,Registry Division,Vital Statistics,Personnel Services,545849.31,503509.37,570163.0785,553689.0705
+547,People Operations Cabinet,Registry Division,Vital Statistics,Contractual Services,13237.44,11557.14,30960.0,33237.0
+548,People Operations Cabinet,Registry Division,Vital Statistics,Supplies & Materials,23945.6,29022.67,14750.0,16250.0
+551,People Operations Cabinet,Registry Division,Depositions,Personnel Services,142609.04,147889.58,156041.5687,155895.695
+553,People Operations Cabinet,Registry Division,Depositions,Supplies & Materials,250.0,250.0,250.0,250.0
+554,People Operations Cabinet,Registry Division,Depositions,Current Charges & Obligations,597.52,550.53,600.0,402.0
+555,People Operations Cabinet,Unemployment Compensation,Unemployment Comp,Personnel Services,528212.31,190161.56,350000.0,350000.0
+558,People Operations Cabinet,Workers' Compensation Fund,Workers' Compensation Fund,Other Expenses,7664.89,1484880.28,2000000.0,2000000.0
+559,Human Services Cabinet,Office of Human Services,Human Services Office,Personnel Services,699808.33,517317.46,642013.6343,820455.5307
+560,Human Services Cabinet,Office of Human Services,Human Services Office,Contractual Services,1059930.69,2096670.94,1835000.0,1839500.0
+561,Human Services Cabinet,Office of Human Services,Human Services Office,Supplies & Materials,839.06,368.7,7000.0,7000.0
+585,Human Services Cabinet,Boston Center for Youth & Families,Administration & Policy,Personnel Services,12492576.78,12247576.2,12288786.31,12628448.22
+586,Human Services Cabinet,Boston Center for Youth & Families,Administration & Policy,Contractual Services,3167630.42,2966998.27,3119077.459,3055820.571
+587,Human Services Cabinet,Boston Center for Youth & Families,Administration & Policy,Supplies & Materials,263322.79,353335.21,358697.586,358698.0
+588,Human Services Cabinet,Boston Center for Youth & Families,Administration & Policy,Current Charges & Obligations,128044.52,46127.56,282892.0,447569.0
+589,Human Services Cabinet,Boston Center for Youth & Families,Administration & Policy,Equipment,98365.7,81064.6,317617.0,311548.0
+590,Human Services Cabinet,Boston Center for Youth & Families,Sports & Fitness,Personnel Services,4416704.35,3557295.0,5344703.107,6081461.145
+591,Human Services Cabinet,Boston Center for Youth & Families,Sports & Fitness,Contractual Services,357.14,400385.7,500500.0,1000500.0
+592,Human Services Cabinet,Boston Center for Youth & Families,Youth & Family Services,Personnel Services,4233249.21,3937676.97,5080745.704,2456118.334
+593,Human Services Cabinet,Boston Center for Youth & Families,Youth & Family Services,Contractual Services,41814.28,357722.63,301000.0,301000.0
+595,Human Services Cabinet,Boston Center for Youth & Families,Youth & Family Services,Current Charges & Obligations,48102.48,433.34,50000.0,50000.0
+596,Human Services Cabinet,Boston Center for Youth & Families,Youth & Family Services,Equipment,7275.4,14342.84,28686.0,713785.84
+597,Human Services Cabinet,Boston Center for Youth & Families,Child Care & Out-of-School,Personnel Services,1154870.63,1192662.13,1567274.832,1435616.6
+598,Human Services Cabinet,Boston Center for Youth & Families,Child Care & Out-of-School,Contractual Services,851471.15,898858.5,1179500.0,1174500.0
+599,Human Services Cabinet,Boston Center for Youth & Families,Child Care & Out-of-School,Supplies & Materials,1074.87,8341.32,9600.0,10000.0
+601,Human Services Cabinet,Age Strong,Age Strong Administration,Personnel Services,762883.3,804228.16,1124753.158,1257506.95
+602,Human Services Cabinet,Age Strong,Age Strong Administration,Contractual Services,311469.51,250368.95,257175.0,927380.64
+603,Human Services Cabinet,Age Strong,Age Strong Administration,Supplies & Materials,8710.21,48882.68,8850.0,10400.0
+604,Human Services Cabinet,Age Strong,Age Strong Administration,Current Charges & Obligations,50785.92,24519.19,25610.0,23074.0
+605,Human Services Cabinet,Age Strong,Age Strong Operations,Personnel Services,499872.97,528500.0,763213.7043,860685.0384
+606,Human Services Cabinet,Age Strong,Age Strong Operations,Contractual Services,302538.08,519965.51,510350.0,692370.0
+607,Human Services Cabinet,Age Strong,Age Strong Operations,Supplies & Materials,5454.87,70129.17,229445.0,234150.0
+608,Human Services Cabinet,Age Strong,Age Strong Operations,Current Charges & Obligations,250.0,23788.0,50000.0,50000.0
+609,Human Services Cabinet,Age Strong,Age Strong Transportation,Personnel Services,1264267.87,1174247.02,1423270.006,1558137.856
+610,Human Services Cabinet,Age Strong,Age Strong Transportation,Contractual Services,66756.5,61851.04,69000.0,68702.0
+611,Human Services Cabinet,Age Strong,Age Strong Transportation,Supplies & Materials,50540.63,76355.04,77940.8,86640.0
+612,Human Services Cabinet,Age Strong,Age Strong Transportation,Current Charges & Obligations,7214.63,6118.34,12500.0,12500.0
+613,Human Services Cabinet,Age Strong,Age Strong Transportation,Equipment,150247.95,120626.86,34832.0,34832.0
+614,Human Services Cabinet,Age Strong,Program & Partnerships,Personnel Services,267281.75,212949.03,489540.1295,1239915.221
+615,Human Services Cabinet,Age Strong,Program & Partnerships,Contractual Services,135177.46,300655.73,968000.0,884477.2
+617,Human Services Cabinet,Library Department,Library Administration,Personnel Services,9186158.14,9336960.95,5598199.492,6064709.87
+618,Human Services Cabinet,Library Department,Library Administration,Contractual Services,8464776.5,9244676.34,594100.0,726991.0
+619,Human Services Cabinet,Library Department,Library Administration,Supplies & Materials,4191013.77,3726661.37,3892686.0,3892686.0
+620,Human Services Cabinet,Library Department,Library Administration,Current Charges & Obligations,286819.35,248343.7,48610.0,49225.0
+623,Human Services Cabinet,Library Department,Community Library Services,Personnel Services,15612790.51,16183782.53,18252286.76,19984698.77
+624,Human Services Cabinet,Library Department,Community Library Services,Contractual Services,18420.87,350510.66,100000.0,100000.0
+626,Human Services Cabinet,Library Department,Community Library Services,Current Charges & Obligations,15572.8,20244.64,21000.0,20340.0
+627,Human Services Cabinet,Library Department,Research Services,Personnel Services,1674383.3,1419759.18,1783087.231,1829674.729
+635,Human Services Cabinet,Boston VETS,Veterans' Services,Personnel Services,911830.55,943570.04,1128408.395,1204920.409
+636,Human Services Cabinet,Boston VETS,Veterans' Services,Contractual Services,87375.91,126532.91,185202.0,185702.0
+637,Human Services Cabinet,Boston VETS,Veterans' Services,Supplies & Materials,44362.06,75198.68,71550.0,71550.0
+638,Human Services Cabinet,Boston VETS,Veterans' Services,Current Charges & Obligations,1564410.94,1410232.28,3331601.0,3331008.0
+640,Public Health Cabinet,Public Health Commission,Public Health Commission,Other Expenses,106473529.0,114802081.0,117994237.0,129907346.4
+641,Housing Cabinet,Mayor's Office of Housing,Mayor's Office of Housing Administration,Personnel Services,1550222.146,1544234.12,1778037.287,2290300.801
+642,Housing Cabinet,Mayor's Office of Housing,Mayor's Office of Housing Administration,Contractual Services,396214.59,218159.48,760360.4363,297083.9716
+643,Housing Cabinet,Mayor's Office of Housing,Mayor's Office of Housing Administration,Supplies & Materials,14841.5,20810.88,22000.0,22150.0
+644,Housing Cabinet,Mayor's Office of Housing,Mayor's Office of Housing Administration,Current Charges & Obligations,67244.66,73015.32,92938.0,92258.0
+645,Housing Cabinet,Mayor's Office of Housing,Mayor's Office of Housing Administration,Equipment,6470.0,23160.0,22986.0,22986.0
+646,Housing Cabinet,Mayor's Office of Housing,Real Estate Management & Sales,Personnel Services,881977.49,933562.79,1040934.617,1064707.965
+647,Housing Cabinet,Mayor's Office of Housing,Real Estate Management & Sales,Contractual Services,1075305.17,1289553.41,2093700.2,2085708.0
+648,Housing Cabinet,Mayor's Office of Housing,Real Estate Management & Sales,Supplies & Materials,1750.0,6177.06,6750.0,7063.0
+649,Housing Cabinet,Mayor's Office of Housing,Real Estate Management & Sales,Current Charges & Obligations,13770.0,11285.0,31650.0,31650.0
+650,Housing Cabinet,Mayor's Office of Housing,Housing Development & Services,Personnel Services,1717317.35,1737982.0,3089204.362,3109686.668
+651,Housing Cabinet,Mayor's Office of Housing,Housing Development & Services,Contractual Services,462141.2,462394.3,488500.0,503611.2
+652,Housing Cabinet,Mayor's Office of Housing,Housing Development & Services,Supplies & Materials,3369.9,4425.11,3750.0,6525.0
+653,Housing Cabinet,Mayor's Office of Housing,Housing Development & Services,Other Expenses,22863343.0,28963343.0,35213343.0,39889343.0
+654,Information & Technology Cabinet,Department of Innovation and Technology,DoIT Operations,Personnel Services,1630258.07,1424440.45,1832732.276,2464184.007
+655,Information & Technology Cabinet,Department of Innovation and Technology,DoIT Operations,Contractual Services,4680716.21,2525498.64,640971.4,1060092.0
+656,Information & Technology Cabinet,Department of Innovation and Technology,DoIT Operations,Supplies & Materials,222943.64,42237.89,12450.0,15715.0
+657,Information & Technology Cabinet,Department of Innovation and Technology,DoIT Operations,Current Charges & Obligations,1301985.99,5198883.37,188688.0,261197.0
+658,Information & Technology Cabinet,Department of Innovation and Technology,DoIT Operations,Equipment,938112.96,761887.85,765642.54,900013.76
+659,Information & Technology Cabinet,Department of Innovation and Technology,Enterprise Applications,Personnel Services,5582106.49,6392003.23,5644576.643,6194621.103
+660,Information & Technology Cabinet,Department of Innovation and Technology,Enterprise Applications,Contractual Services,2020283.65,1596487.22,100000.0,100000.0
+661,Information & Technology Cabinet,Department of Innovation and Technology,Enterprise Applications,Current Charges & Obligations,6428644.39,4074174.55,8729943.86,9818845.81
+663,Information & Technology Cabinet,Department of Innovation and Technology,Digital Engagement & Services,Personnel Services,783328.03,609206.97,1041450.395,1042541.495
+664,Information & Technology Cabinet,Department of Innovation and Technology,Digital Engagement & Services,Contractual Services,144.66,1060350.28,362000.0,362000.0
+665,Information & Technology Cabinet,Department of Innovation and Technology,Digital Engagement & Services,Current Charges & Obligations,844820.65,960080.68,854680.0,903440.39
+667,Information & Technology Cabinet,Department of Innovation and Technology,Core Infrastructure,Personnel Services,4528657.86,4655450.39,4439973.905,4033369.146
+668,Information & Technology Cabinet,Department of Innovation and Technology,Core Infrastructure,Contractual Services,2675861.57,4853551.27,4250393.96,4418175.84
+669,Information & Technology Cabinet,Department of Innovation and Technology,Core Infrastructure,Supplies & Materials,22892.6,282808.4,30250.0,35535.0
+670,Information & Technology Cabinet,Department of Innovation and Technology,Core Infrastructure,Current Charges & Obligations,7947246.16,9003673.01,10431136.87,9796399.03
+671,Information & Technology Cabinet,Department of Innovation and Technology,Core Infrastructure,Equipment,78389.21,830840.16,242761.52,259777.34
+672,Information & Technology Cabinet,Department of Innovation and Technology,Data & Analytics,Personnel Services,594282.77,761001.6,1058891.297,1007680.227
+673,Information & Technology Cabinet,Department of Innovation and Technology,Data & Analytics,Contractual Services,55011.78,418915.36,100000.0,250000.0
+674,Information & Technology Cabinet,Department of Innovation and Technology,Data & Analytics,Current Charges & Obligations,504047.43,153773.75,513112.792,832129.84
+675,Information & Technology Cabinet,Department of Innovation and Technology,Broadband & Digital Equity,Personnel Services,383817.93,437345.98,541561.7437,564307.4384
+676,Information & Technology Cabinet,Department of Innovation and Technology,Broadband & Digital Equity,Contractual Services,-69.64,98893.92,191500.0,191500.0
+678,Public Safety Cabinet,Emergency Management,Homeland Security,Personnel Services,330905.75,487169.11,551200.7671,693883.1867
+679,Public Safety Cabinet,Emergency Management,Homeland Security,Contractual Services,294800.05,263021.52,343508.0,368787.96
+680,Public Safety Cabinet,Emergency Management,Homeland Security,Supplies & Materials,2795.8,5220.4,6000.0,6000.0
+681,Public Safety Cabinet,Emergency Management,Homeland Security,Current Charges & Obligations,366090.48,376860.54,386857.2,398462.88
+683,Public Safety Cabinet,Fire Department,BFD Administration,Personnel Services,12592230.13,15230893.3,16664713.85,12306200.79
+684,Public Safety Cabinet,Fire Department,BFD Administration,Contractual Services,2776881.2,3796522.64,3019667.062,3347210.07
+685,Public Safety Cabinet,Fire Department,BFD Administration,Supplies & Materials,88805.12,166477.88,211825.0,215092.0
+686,Public Safety Cabinet,Fire Department,BFD Administration,Current Charges & Obligations,3753364.75,3855333.96,3942579.0,3933725.4
+688,Public Safety Cabinet,Fire Department,Boston Fire Suppression,Personnel Services,199783710.1,212139442.5,202171628.3,202277294.1
+689,Public Safety Cabinet,Fire Department,Boston Fire Suppression,Contractual Services,1135817.16,1324006.02,1170560.0,1216742.5
+690,Public Safety Cabinet,Fire Department,Boston Fire Suppression,Supplies & Materials,2475576.19,3891533.46,3132138.951,3340422.9
+691,Public Safety Cabinet,Fire Department,Boston Fire Suppression,Current Charges & Obligations,6169.61,7862.28,51132.0,35809.21
+692,Public Safety Cabinet,Fire Department,Boston Fire Suppression,Equipment,3830744.94,4888280.57,2022384.583,3101219.2
+693,Public Safety Cabinet,Fire Department,Fire Alarm,Personnel Services,7907473.81,9101912.12,9434857.604,11204422.99
+694,Public Safety Cabinet,Fire Department,Fire Alarm,Contractual Services,1289517.23,1649257.07,1360120.0,1348768.0
+695,Public Safety Cabinet,Fire Department,Fire Alarm,Supplies & Materials,100191.09,222599.47,147679.0,147679.0
+696,Public Safety Cabinet,Fire Department,Fire Alarm,Current Charges & Obligations,306248.04,260955.58,257998.0,235565.0
+697,Public Safety Cabinet,Fire Department,Fire Alarm,Equipment,582064.04,291516.9,914870.03,1120223.565
+698,Public Safety Cabinet,Fire Department,BFD Training,Personnel Services,4302070.44,5153539.72,5585078.862,5620597.406
+699,Public Safety Cabinet,Fire Department,BFD Training,Contractual Services,88743.36,156538.94,100800.0,100800.0
+700,Public Safety Cabinet,Fire Department,BFD Training,Supplies & Materials,74461.82,50607.21,129965.0,129965.0
+701,Public Safety Cabinet,Fire Department,BFD Training,Current Charges & Obligations,2230.0,17444.5,16130.0,15830.0
+702,Public Safety Cabinet,Fire Department,BFD Training,Equipment,23517.0,40485.88,41100.0,84100.0
+703,Public Safety Cabinet,Fire Department,BFD Maintenance,Personnel Services,3544002.56,3981462.47,3955168.889,4153370.528
+704,Public Safety Cabinet,Fire Department,BFD Maintenance,Contractual Services,4104454.28,5257566.09,3708737.0,4109457.0
+705,Public Safety Cabinet,Fire Department,BFD Maintenance,Supplies & Materials,2784896.77,1664727.54,2465875.0,2915875.0
+706,Public Safety Cabinet,Fire Department,BFD Maintenance,Current Charges & Obligations,53466.63,44844.41,718753.0,753753.0
+707,Public Safety Cabinet,Fire Department,BFD Maintenance,Equipment,2751600.11,596471.52,616938.91,1605926.26
+708,Public Safety Cabinet,Fire Department,BFD Maintenance,Other Expenses,29997.0,19998.0,20000.0,20000.0
+709,Public Safety Cabinet,Fire Department,BFD Fire Prevention,Personnel Services,13496706.81,14215966.08,13818274.29,13515511.18
+710,Public Safety Cabinet,Fire Department,BFD Fire Prevention,Contractual Services,53341.24,95576.27,126981.0,88851.0
+711,Public Safety Cabinet,Fire Department,BFD Fire Prevention,Supplies & Materials,79183.43,115862.64,141450.0,141450.0
+712,Public Safety Cabinet,Fire Department,BFD Fire Prevention,Current Charges & Obligations,145319.19,159547.67,132819.0,132819.0
+713,Public Safety Cabinet,Fire Department,BFD Fire Prevention,Equipment,15719.99,351.09,1800.0,1800.0
+714,Public Safety Cabinet,Fire Department,"Firefighter Safety, Health and Wellness",Personnel Services,710660.81,766424.03,720363.8731,731403.5967
+715,Public Safety Cabinet,Fire Department,"Firefighter Safety, Health and Wellness",Contractual Services,61235.9,198385.2,77000.0,77000.0
+716,Public Safety Cabinet,Fire Department,"Firefighter Safety, Health and Wellness",Supplies & Materials,2335.59,137946.63,22200.0,22200.0
+718,Public Safety Cabinet,Fire Department,"Firefighter Safety, Health and Wellness",Equipment,7190.0,13412.0,0.0,15000.0
+719,Public Safety Cabinet,Police Department,Police Commissioner's Office,Personnel Services,15107448.44,13905800.98,12558200.81,11963248.27
+720,Public Safety Cabinet,Police Department,Police Commissioner's Office,Contractual Services,625979.88,456754.29,714584.0,1010684.0
+721,Public Safety Cabinet,Police Department,Police Commissioner's Office,Supplies & Materials,111187.96,91093.07,50900.0,58900.0
+722,Public Safety Cabinet,Police Department,Police Commissioner's Office,Current Charges & Obligations,32052.21,18859.91,35123.0,37623.0
+724,Public Safety Cabinet,Police Department,Bureau of Community Engagement,Personnel Services,4061872.84,4138102.98,4127335.26,3625351.262
+725,Public Safety Cabinet,Police Department,Bureau of Community Engagement,Contractual Services,640.0,2560.0,110000.0,697500.0
+726,Public Safety Cabinet,Police Department,Bureau of Community Engagement,Supplies & Materials,22675.0,33506.67,20000.0,30000.0
+727,Public Safety Cabinet,Police Department,Bureau of Community Engagement,Current Charges & Obligations,120.0,2234.99,7500.0,15500.0
+729,Public Safety Cabinet,Police Department,BAT-Operations,Personnel Services,6457189.73,6549542.93,6950073.704,6859867.454
+730,Public Safety Cabinet,Police Department,BAT-Operations,Contractual Services,3758262.32,4112156.85,3914902.0,4292452.0
+731,Public Safety Cabinet,Police Department,BAT-Operations,Supplies & Materials,3220538.41,4176912.76,4426341.0,4758947.0
+732,Public Safety Cabinet,Police Department,BAT-Operations,Current Charges & Obligations,296962.27,481463.54,580160.0,522660.0
+733,Public Safety Cabinet,Police Department,BAT-Operations,Equipment,7926529.54,2872937.96,4221828.702,5028867.362
+734,Public Safety Cabinet,Police Department,BAT-Admin & Technology,Personnel Services,58557010.83,56709476.57,56840015.31,55826952.91
+735,Public Safety Cabinet,Police Department,BAT-Admin & Technology,Contractual Services,15371483.83,15412761.5,18828994.67,19180612.66
+736,Public Safety Cabinet,Police Department,BAT-Admin & Technology,Supplies & Materials,1001241.35,929722.49,819683.0,850813.0
+737,Public Safety Cabinet,Police Department,BAT-Admin & Technology,Current Charges & Obligations,7111875.77,6187193.2,4654836.0,4962890.0
+738,Public Safety Cabinet,Police Department,BAT-Admin & Technology,Equipment,2222091.54,681979.78,1487399.936,1711503.569
+739,Public Safety Cabinet,Police Department,Bureau of Professional Development,Personnel Services,6065866.65,6939476.11,5396952.376,5921669.9
+740,Public Safety Cabinet,Police Department,Bureau of Professional Development,Contractual Services,89083.9,113559.38,236546.0,288756.0
+741,Public Safety Cabinet,Police Department,Bureau of Professional Development,Supplies & Materials,323967.21,672764.52,582626.0,657245.0
+742,Public Safety Cabinet,Police Department,Bureau of Professional Development,Current Charges & Obligations,29728.01,22029.92,9950.0,15500.0
+743,Public Safety Cabinet,Police Department,Bureau of Professional Development,Equipment,12742.0,1379.98,29100.0,40000.0
+744,Public Safety Cabinet,Police Department,Bureau of Field Services,Personnel Services,195968565.7,201143188.8,187121079.0,195026826.2
+745,Public Safety Cabinet,Police Department,Bureau of Field Services,Contractual Services,497871.59,267869.66,290481.0,288184.0
+746,Public Safety Cabinet,Police Department,Bureau of Field Services,Supplies & Materials,1540739.45,1468222.89,2399975.15,2519856.0
+747,Public Safety Cabinet,Police Department,Bureau of Field Services,Current Charges & Obligations,2291.59,1475.0,52600.0,82950.0
+748,Public Safety Cabinet,Police Department,Bureau of Field Services,Equipment,201991.33,100523.78,239072.0,240291.0
+749,Public Safety Cabinet,Police Department,Bureau of Professional Standards,Personnel Services,5425993.19,5198593.6,4276386.23,3792057.562
+750,Public Safety Cabinet,Police Department,Bureau of Professional Standards,Contractual Services,85529.0,93639.89,130118.0,130118.0
+752,Public Safety Cabinet,Police Department,Bureau of Professional Standards,Current Charges & Obligations,50721.89,40980.0,40730.0,40730.0
+753,Public Safety Cabinet,Police Department,Bureau of Professional Standards,Equipment,379.92,2211.43,5000.0,5000.0
+754,Public Safety Cabinet,Police Department,Bureau of Investigative Services,Personnel Services,80589542.53,81481053.38,69764791.53,69434146.71
+755,Public Safety Cabinet,Police Department,Bureau of Investigative Services,Contractual Services,450260.3,416625.69,628241.0,757644.0
+756,Public Safety Cabinet,Police Department,Bureau of Investigative Services,Supplies & Materials,618141.88,681375.98,493304.0,573303.0
+757,Public Safety Cabinet,Police Department,Bureau of Investigative Services,Current Charges & Obligations,346336.41,109289.6,148969.0,188565.0
+758,Public Safety Cabinet,Police Department,Bureau of Investigative Services,Equipment,144869.73,168023.84,83090.0,99176.0
+759,Public Safety Cabinet,Police Department,Bureau of Intelligence & Analysis,Personnel Services,4542834.03,4687519.12,3592529.922,3398416.706
+762,Streets Cabinet,Central Fleet Management,Fleet Services,Personnel Services,2463203.72,2565820.59,2395145.273,2346303.545
+763,Streets Cabinet,Central Fleet Management,Fleet Services,Contractual Services,158137.29,443954.56,452796.0,520415.0
+764,Streets Cabinet,Central Fleet Management,Fleet Services,Supplies & Materials,475685.1,565252.73,104585.2224,100115.79
+765,Streets Cabinet,Central Fleet Management,Fleet Services,Current Charges & Obligations,105352.57,3341.05,6350.0,5757.0
+766,Streets Cabinet,Central Fleet Management,Fleet Services,Equipment,244165.47,306665.41,364203.1,383201.145
+767,Streets Cabinet,Office of Streets,Admin & Finance,Personnel Services,1920900.05,1779760.85,2563618.823,3130717.96
+768,Streets Cabinet,Office of Streets,Admin & Finance,Contractual Services,396.43,19538.57,24050.0,534050.0
+769,Streets Cabinet,Office of Streets,Admin & Finance,Supplies & Materials,1500.0,2984.01,6650.0,6650.0
+770,Streets Cabinet,Office of Streets,Admin & Finance,Current Charges & Obligations,1576.0,531.0,6600.0,6600.0
+772,Streets Cabinet,Public Works Department,PWD Commissioner's Office,Personnel Services,1178033.83,1101560.87,1282786.179,1139829.314
+773,Streets Cabinet,Public Works Department,PWD Commissioner's Office,Contractual Services,314622.7,369841.12,298500.0,299400.0
+774,Streets Cabinet,Public Works Department,PWD Commissioner's Office,Supplies & Materials,42306.5,88203.61,119557.6292,120144.88
+775,Streets Cabinet,Public Works Department,PWD Commissioner's Office,Current Charges & Obligations,543362.84,545450.38,532500.0,553793.84
+777,Streets Cabinet,Public Works Department,Building/Facility Maintenance,Personnel Services,778921.81,885496.19,849731.2846,778952.7315
+778,Streets Cabinet,Public Works Department,Building/Facility Maintenance,Contractual Services,1521428.89,2107528.41,2088613.896,2232471.062
+779,Streets Cabinet,Public Works Department,Building/Facility Maintenance,Supplies & Materials,67358.42,88775.26,72612.1367,80523.39
+780,Streets Cabinet,Public Works Department,Building/Facility Maintenance,Current Charges & Obligations,2597.9,3043.89,3670.0,3434.61
+781,Streets Cabinet,Public Works Department,Building/Facility Maintenance,Equipment,52060.03,167436.91,139738.0,147662.1675
+782,Streets Cabinet,Public Works Department,Engineering,Personnel Services,1571889.52,1642214.86,2142933.784,2244181.172
+783,Streets Cabinet,Public Works Department,Engineering,Contractual Services,78361.72,107940.98,94795.0,153001.0
+784,Streets Cabinet,Public Works Department,Engineering,Supplies & Materials,16161.32,34971.37,23660.6278,26360.0
+785,Streets Cabinet,Public Works Department,Engineering,Current Charges & Obligations,28473.37,17237.51,29549.95,61144.61
+786,Streets Cabinet,Public Works Department,Engineering,Equipment,32245.17,61512.09,49988.5,48262.98196
+787,Streets Cabinet,Public Works Department,Construction Management,Personnel Services,2084686.08,1913977.58,3100902.287,3108255.584
+788,Streets Cabinet,Public Works Department,Construction Management,Contractual Services,193588.18,95534.81,203250.0,404698.0
+789,Streets Cabinet,Public Works Department,Construction Management,Supplies & Materials,34780.79,39182.6,43957.7847,44360.08
+790,Streets Cabinet,Public Works Department,Construction Management,Current Charges & Obligations,7054.4,5940.21,9800.0,7814.61
+791,Streets Cabinet,Public Works Department,Construction Management,Equipment,68985.88,105797.43,43234.0,94516.9
+792,Streets Cabinet,Public Works Department,Highway Field Operations,Personnel Services,9353442.33,9832977.75,10923055.05,11082436.33
+793,Streets Cabinet,Public Works Department,Highway Field Operations,Contractual Services,6103253.55,5950093.6,7046599.03,7447292.4
+794,Streets Cabinet,Public Works Department,Highway Field Operations,Supplies & Materials,830780.41,1285184.71,1254842.0,1468600.0
+795,Streets Cabinet,Public Works Department,Highway Field Operations,Current Charges & Obligations,12757.02,12821.28,35000.0,3852.29
+796,Streets Cabinet,Public Works Department,Highway Field Operations,Equipment,1463636.97,2056497.5,1933455.86,2121862.823
+797,Streets Cabinet,Public Works Department,Bridge Operations/Maintenance,Personnel Services,1099802.32,1148341.69,1117324.485,1161828.309
+798,Streets Cabinet,Public Works Department,Bridge Operations/Maintenance,Contractual Services,832114.59,1178242.98,831900.0,850666.125
+799,Streets Cabinet,Public Works Department,Bridge Operations/Maintenance,Supplies & Materials,4103.49,4523.66,26848.851,26344.0
+800,Streets Cabinet,Public Works Department,Bridge Operations/Maintenance,Current Charges & Obligations,465.6,973.91,800.0,423.38
+802,Streets Cabinet,Public Works Department,Street Lights,Personnel Services,2806076.3,2911821.59,3361145.354,3480114.379
+803,Streets Cabinet,Public Works Department,Street Lights,Contractual Services,5536210.99,7990912.21,6679422.041,7928238.822
+804,Streets Cabinet,Public Works Department,Street Lights,Supplies & Materials,114078.52,131930.24,110935.9,127190.0
+805,Streets Cabinet,Public Works Department,Street Lights,Current Charges & Obligations,5403.56,5368.7,13000.0,8292.27
+806,Streets Cabinet,Public Works Department,Street Lights,Equipment,205060.58,222153.66,547533.01,803807.5443
+807,Streets Cabinet,Public Works Department,Street Lights,Other Expenses,388607.02,537655.82,600000.0,600000.0
+808,Streets Cabinet,Public Works Department,Waste Reduction,Personnel Services,2400600.94,2582696.08,2987813.828,3053404.872
+809,Streets Cabinet,Public Works Department,Waste Reduction,Contractual Services,53818890.42,53067528.4,56653684.37,63984770.91
+810,Streets Cabinet,Public Works Department,Waste Reduction,Supplies & Materials,520841.84,577671.68,506122.5134,139690.0
+811,Streets Cabinet,Public Works Department,Waste Reduction,Current Charges & Obligations,14936.68,19900.04,4330.0,3396.92
+812,Streets Cabinet,Public Works Department,Waste Reduction,Equipment,12559.2,92431.12,191954.5,361126.1259
+813,Streets Cabinet,Snow & Winter Management,Snow & Winter Management,Contractual Services,18487266.41,28289692.87,22640141.3,22640141.6
+814,Streets Cabinet,Snow & Winter Management,Snow & Winter Management,Supplies & Materials,44579.3,48000.0,57500.0,57500.0
+816,Streets Cabinet,Snow & Winter Management,Snow & Winter Management,Equipment,170607.39,179796.13,833172.55,1049666.14
+817,Streets Cabinet,Transportation Department,Traffic Commissioner's Office,Personnel Services,862628.97,1112267.33,1028542.685,1084266.955
+818,Streets Cabinet,Transportation Department,Traffic Commissioner's Office,Contractual Services,133068.91,171196.42,1112750.0,1212750.0
+819,Streets Cabinet,Transportation Department,Traffic Commissioner's Office,Supplies & Materials,23480.52,91705.23,35600.0,35600.0
+820,Streets Cabinet,Transportation Department,Traffic Commissioner's Office,Current Charges & Obligations,100682.88,145864.07,152650.0,156422.0
+822,Streets Cabinet,Transportation Department,Traffic Management & Engineering,Personnel Services,2124967.22,2302469.47,2387923.662,2582515.502
+823,Streets Cabinet,Transportation Department,Traffic Management & Engineering,Contractual Services,313426.92,547594.88,294975.0,294975.0
+824,Streets Cabinet,Transportation Department,Traffic Management & Engineering,Supplies & Materials,4500.0,4750.0,3750.0,0.0
+825,Streets Cabinet,Transportation Department,Traffic Management & Engineering,Current Charges & Obligations,18623.73,17521.34,40300.0,40300.0
+826,Streets Cabinet,Transportation Department,Traffic Management & Engineering,Equipment,47739.62,46689.64,22820.0,47143.76
+827,Streets Cabinet,Transportation Department,Policy & Planning,Personnel Services,1654417.1,1781946.41,2721211.06,2687306.466
+828,Streets Cabinet,Transportation Department,Policy & Planning,Contractual Services,666829.5,1354300.9,889850.0,1759850.0
+832,Streets Cabinet,Transportation Department,Traffic Enforcement,Personnel Services,13671294.43,13414615.9,14755193.53,15043906.05
+833,Streets Cabinet,Transportation Department,Traffic Enforcement,Contractual Services,557799.02,755705.29,711528.3104,784131.2174
+834,Streets Cabinet,Transportation Department,Traffic Enforcement,Supplies & Materials,302471.74,399852.5,366818.0,411625.0
+835,Streets Cabinet,Transportation Department,Traffic Enforcement,Current Charges & Obligations,127066.98,166336.34,171300.0,168548.0
+836,Streets Cabinet,Transportation Department,Traffic Enforcement,Equipment,638053.17,796824.65,866846.72,962758.45
+837,Streets Cabinet,Transportation Department,Traffic Operations,Personnel Services,4023479.5,3876977.67,4222487.955,4036864.227
+838,Streets Cabinet,Transportation Department,Traffic Operations,Contractual Services,2495384.46,3465207.42,2768374.271,3087658.677
+839,Streets Cabinet,Transportation Department,Traffic Operations,Supplies & Materials,1271329.73,1724387.57,1150109.575,1336327.5
+840,Streets Cabinet,Transportation Department,Traffic Operations,Current Charges & Obligations,5407.6,1855.34,3705.0,2968.0
+841,Streets Cabinet,Transportation Department,Traffic Operations,Equipment,284989.99,843508.82,431258.79,620982.65
+842,Streets Cabinet,Transportation Department,Parking Clerk,Personnel Services,2995049.75,2886578.73,3219209.111,3170516.205
+843,Streets Cabinet,Transportation Department,Parking Clerk,Contractual Services,4728065.86,4637190.6,4508843.0,4570525.06
+844,Streets Cabinet,Transportation Department,Parking Clerk,Supplies & Materials,254602.35,257096.8,214280.0,214280.0
+845,Streets Cabinet,Transportation Department,Parking Clerk,Current Charges & Obligations,2365.75,3389.51,2001.0,1253.0
+846,Streets Cabinet,Transportation Department,Parking Clerk,Equipment,14054.44,29220.35,6000.0,6000.0
+851,Non-Mayoral Departments,City Clerk,Legislative Support,Personnel Services,362193.01,378408.6,494562.2642,494334.2711
+852,Non-Mayoral Departments,City Clerk,Legislative Support,Contractual Services,12099.11,24621.9,223482.0,15194.0
+853,Non-Mayoral Departments,City Clerk,Legislative Support,Supplies & Materials,5996.21,7973.96,8949.0,8949.0
+856,Non-Mayoral Departments,City Clerk,Document Filing,Personnel Services,485279.35,500330.29,512716.9136,559289.9565
+857,Non-Mayoral Departments,City Clerk,Document Filing,Contractual Services,6825.94,9717.72,10653.34,17756.01
+858,Non-Mayoral Departments,City Clerk,Document Filing,Supplies & Materials,10387.84,6497.45,6161.0,6160.67
+859,Non-Mayoral Departments,City Clerk,Document Filing,Current Charges & Obligations,425.73,751.35,426.0,751.35
+861,Non-Mayoral Departments,City Clerk,Archives,Personnel Services,410578.59,440521.94,456147.5284,468749.3678
+862,Non-Mayoral Departments,City Clerk,Archives,Contractual Services,55591.8,50713.64,62274.0,67561.0
+863,Non-Mayoral Departments,City Clerk,Archives,Supplies & Materials,651.22,5566.48,5498.0,5498.0
+864,Non-Mayoral Departments,City Clerk,Archives,Current Charges & Obligations,855.0,120.0,2905.0,2905.0
+866,Non-Mayoral Departments,City Council,City Council Administration,Personnel Services,384477.31,321458.76,392330.3077,447204.3
+867,Non-Mayoral Departments,City Council,City Council Administration,Contractual Services,97576.18,111135.29,56000.0,51500.0
+868,Non-Mayoral Departments,City Council,City Council Administration,Supplies & Materials,11413.83,14879.95,39000.0,44000.0
+869,Non-Mayoral Departments,City Council,City Council Administration,Current Charges & Obligations,2480.61,6695.9,15100.0,14000.0
+871,Non-Mayoral Departments,City Council,City Councilors,Personnel Services,4412763.76,4803049.61,6173791.891,6168947.993
+872,Non-Mayoral Departments,City Council,City Councilors,Contractual Services,31243.68,30932.88,345600.0,368100.0
+874,Non-Mayoral Departments,City Council,City Councilors,Current Charges & Obligations,5544.82,5332.65,6000.0,4829.0
+875,Non-Mayoral Departments,City Council,City Councilors,Equipment,23805.38,8475.64,20500.0,28000.0
+876,Non-Mayoral Departments,City Council,Legislative Financial Support,Personnel Services,587979.25,638291.08,548877.3876,849539.2353
+879,Non-Mayoral Departments,City Council,Legislative Financial Support,Current Charges & Obligations,6914.3,7014.7,18200.0,19920.0
+880,Non-Mayoral Departments,City Council,Legislative Financial Support,Equipment,23050.0,22685.33,10000.0,60000.0
+881,Non-Mayoral Departments,Finance Commission,Finance Commission Program,Personnel Services,291856.24,302440.84,313391.1697,318486.3472
+882,Non-Mayoral Departments,Finance Commission,Finance Commission Program,Contractual Services,1608.09,1735.66,4350.0,4350.0
+883,Non-Mayoral Departments,Finance Commission,Finance Commission Program,Supplies & Materials,25.43,37.4,525.0,525.0
+890,Other,MBTA,MBTA,Other Expenses,93345107.0,94117010.0,93613189.0,95283193.0
+891,Other,Other State Assessments,Other State Assessments,Other Expenses,5331228.0,5728581.0,6250334.0,6729857.0
+894,Other,Annual Audit Costs,Annual Audit Costs,Other Expenses,142850.0,708203.0,750000.0,750000.0
+895,Other,Housing Trust Fund,Housing Trust Fund,Other Expenses,576195.84,525404.86,618000.0,618000.0
+896,Other,Reserve for Collective Bargaining City,Reserve for Collective Bargaining City,Personnel Services,14000000.0,52000000.0,36185938.0,76212679.0
+897,Other,OPEB,OPEB,Other Expenses,40000000.0,40000000.0,40000000.0,40000000.0
+898,Other,Risk Retention Reserve,Risk Retention Reserve,Other Expenses,2500000.0,3800000.0,2500000.0,2500000.0
