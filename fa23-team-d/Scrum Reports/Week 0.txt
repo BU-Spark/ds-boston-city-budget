@@ -1,0 +1,23 @@
+What is the project focus/overall goal?
+This project aims to analyze the distribution of this budget across departments and neighborhoods, and identify funding trends over time. Through this analysis, we seek insights into the changing dynamics of departmental and geographical funding allocations.
+
+Why is this project important?
+How a city’s budget is allocated is highly impactful to the lives of people who live, work, or go to school there. However, without sufficient monitoring, inequities and inefficiencies can compound and will, if not checked, gradually impact the quality of life of a city for the worse.
+A data-driven approach to analyzing a budget offers the opportunity to look at the impact of policy quantitatively, which gives a solid foundation to build off of when considering different metrics like how bias is impacting which communities are being best served or whether a particular program is having an undersized impact relative to its cost.
+While informational and statistical approaches are themselves subject to biased or wasteful practices, they serve as increasingly vital tools in the toolbox for citizens and policy makers alike to consider the impact of how their city’s resources are being allocated. 
+
+What type of data will you collect or be analyzing?
+We will collect:
+Operating budget data: This dataset provides information on the budget allocations for different departments, services, and personnel expenses such as teachers, police officers, and firefighters.
+Capital budget data: This dataset includes the capital budget for the City of Boston, specifying the funding sources, projects descriptions, and budget allocations for acquiring or improving physical asses owned by the city.
+We will analyze:
+How the budget is spread across different departments, neighborhoods, and to identify trends among the funded projects.
+How funding of different departments and geographies or other attributes has changed over time.
+
+What are potential limitations of the project?
+The way that data is presented can influence how it is perceived, so there might be unconscious biases
+The analysis cannot be fully comprehensive
+
+What are your next steps? Divide tasks amongst the team
+The main task for all of us going forward is to familiarize ourselves with the dataset and come up with a plan to best process, clean, and visualize it, as well as coming up with plans for possible project extensions.
+
